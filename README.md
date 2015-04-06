@@ -12,7 +12,7 @@ Here's how it works:
 
 ### An Example
 
-Input: let _ζ_  be '[9 -123 9234 0 1723 -473414]`
+Input: let _ζ_  be `[9 -123 9234 0 1723 -473414]`
 
 1. Avant-Garde sort takes in the sequence _ζ_.
 2. _γνῶθι σεαυτόν_
