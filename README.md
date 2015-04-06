@@ -31,4 +31,3 @@ Input: let _ζ_  be `[9 -123 9234 0 1723 -473414]`
 + Avant-Garde sort is _not_ a comparison sort.
 + Avant-Garde sort is _not_ an adaptive sort.
 
-Avant-Garde sort is, uh, is not serious. If you couldn't tell.
