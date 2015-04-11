@@ -3,4 +3,3 @@ object AvantGardeSort {
         return list
     }
 }
-
