@@ -11,7 +11,7 @@ import java.util.List;
 public class AvantGardeSort {
 
     /**
-     * Sorts the list using thd Avant-Garde sort methodology.
+     * Sorts the list using the Avant-Garde sort methodology.
      *
      * @param list the list to be sorted
      * @return the Avant-Garde'd list
