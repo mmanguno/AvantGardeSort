@@ -16,7 +16,7 @@ public class AvantGardeSort {
      * @param list the list to be sorted
      * @return the Avant-Garde'd list
      */
-    public <T> List<T> sort(List<T> list) {
+    public static <T> List<T> sort(List<T> list) {
         return list;
     }
 }
