@@ -1,2 +1,1 @@
-def sort(list):
-    return list
+sort lambda list: list
