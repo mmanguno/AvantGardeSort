@@ -1,1 +1,1 @@
-sort lambda list: list
+sort = lambda list: list
