@@ -1,4 +1,3 @@
 
 //Javascript function for getting a list and returning it "sorted"
-
-function avantGarde = (list) => list;
+const avantGarde = (list) => list;
